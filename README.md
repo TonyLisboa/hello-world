@@ -10,6 +10,6 @@ Meu primeiro repositório
 ## Uso e Exemplos
 
 ```
-console.log("Olá mundo!")
+console.log("Olá mundo!");
 
 ```
