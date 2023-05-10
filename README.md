@@ -4,4 +4,4 @@ Meu primeiro repositório
 
 ## Autor
 
-[@tonylisboa](TonyLisboa/)
+- [@Tony Lisboa](https://github.com/TonyLisboa)
